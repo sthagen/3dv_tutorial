@@ -25,6 +25,7 @@ In addition to tutorial slides, example codes are provided in the purpose of edu
 * [Section 6. Multiple-view Geometry](https://github.com/mint-lab/3dv_tutorial/blob/master/slides/06_multi-view_geometry.pdf)
 * Special Topic) [Bayesian Filtering](https://github.com/mint-lab/filtering_tutorial)
 * [Section 7. Visual SLAM and Odometry](https://github.com/mint-lab/3dv_tutorial/blob/master/slides/07_visual_slam.pdf)
+* [Section 8. 3D Representations](https://github.com/mint-lab/3dv_tutorial/blob/master/slides/08_3d_representations.pdf)
 
 
 
@@ -86,6 +87,7 @@ In addition to tutorial slides, example codes are provided in the purpose of edu
     * Global SfM [[python]](https://github.com/mint-lab/3dv_tutorial/blob/master/examples/sfm_global.py) [[cpp]](https://github.com/mint-lab/3dv_tutorial/blob/master/examples/sfm_global.cpp)
     * Incremental SfM [[python]](https://github.com/mint-lab/3dv_tutorial/blob/master/examples/sfm_inc.py) [[cpp]](https://github.com/mint-lab/3dv_tutorial/blob/master/examples/sfm_inc.cpp)
 * **Section 7. Visual SLAM and Odometry** [[slides]](https://github.com/mint-lab/3dv_tutorial/blob/master/slides/07_visual_slam.pdf)
+* **Section 8. 3D Representations** [[slides]](https://github.com/mint-lab/3dv_tutorial/blob/master/slides/08_3d_representations.pdf)
 
 
 
